@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Singh
 
-<!--
-**Aditya08singh/Aditya08singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Computer Science student  
+📊 Interested in Data Science, Machine Learning, and Finance  
+💻 Building real-world projects using Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📈 Stock Market Analysis Dashboard
+A modular Python application for analyzing stock data and visualizing technical indicators.
+
+🔗 
+
+---
+
+## 🛠 Skills
+
+- Python  
+- Pandas, NumPy  
+- Data Visualization (Matplotlib, Seaborn)  
+- Basic Machine Learning  
+
+---
+
+## 🎯 Current Focus
+
+- Preparing for IELTS (May 2026)  
+- Building AI & Web projects  
+- Preparing for Austria 🇦🇹 Winter 2026 intake  
