@@ -1,5 +1,13 @@
 # 📈 Stock Market Analysis Dashboard
 
+## 📸 Project Preview
+
+### 📊 Multi Stock Overview
+![Multi Stock Overview](multi_stock_overview.png)
+
+### 📈 Technical Analysis
+![Technical Analysis](NVDA_technical.png)
+
 A modular, production-grade Python dashboard for analysing stocks using
 **Pandas**, **Matplotlib**, and **Seaborn**.
 
